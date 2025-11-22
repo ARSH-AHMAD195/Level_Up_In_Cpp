@@ -1,12 +1,12 @@
 
 // Boiler Plate - Bioler Plate code is the basic code template which is written in every code.
 
-#include <iostream>             //Line 1
-using namespace std;            //Line 2
+#include <iostream>                 //Line 1
+using namespace std;                //Line 2
 
-int main(){                     //Line 3
-    cout<<"Hello World"<<endl;        //Line 4
-    return 0;                   //Line 5
+int main(){                         //Line 3
+    cout<<"Hello World"<<endl;      //Line 4
+    return 0;                       //Line 5
 }
 
 

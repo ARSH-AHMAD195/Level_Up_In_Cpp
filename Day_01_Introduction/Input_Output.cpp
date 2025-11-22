@@ -13,13 +13,11 @@ int main(){
 
 // C++ User Input 
 // ==============
-
 // In cpp we take input by cin followed by (>>) extraction operator.
 // In our case we have taken fname and lname (cin>>fname>>lname;).
 
 // C++ User Output 
 // ===============
-
 // The cout object, together with the << operator, is used to output values and print text.
 // In our case we have printed full_name (cout<<"Hello, "<<full_name;).
 // We can also use cout() to print numbers.

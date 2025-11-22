@@ -5,7 +5,6 @@ int main(){
     
     // Variables - Variables are containers for storing data values.
     // To create a variable, specify the type and assign it a value:
-
     // Syntax
     // type variableName = value;
 

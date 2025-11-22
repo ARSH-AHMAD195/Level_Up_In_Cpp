@@ -14,12 +14,12 @@ int main(){
 
     //  We will discuss typeid() function later.
 
-    cout<<isTrue<<" "<<typeid(isTrue).name()<<endl;       // b : Boolean
-    cout<<ch<<" "<<typeid(ch).name()<<endl;               // c : Character
-    cout<<str<<" "<<typeid(str).name()<<endl;             // ...basic_string... : String
-    cout<<x<<" "<<typeid(x).name()<<endl;                 // i : Integer
-    cout<<float_pi<<" "<<typeid(float_pi).name()<<endl;   // f : Float           
-    cout<<double_pi<<" "<<typeid(double_pi).name()<<endl; // d : Double
+    cout<<isTrue<<" "<<typeid(isTrue).name()<<endl;         // b : Boolean
+    cout<<ch<<" "<<typeid(ch).name()<<endl;                 // c : Character
+    cout<<str<<" "<<typeid(str).name()<<endl;               // ...basic_string... : String
+    cout<<x<<" "<<typeid(x).name()<<endl;                   // i : Integer
+    cout<<float_pi<<" "<<typeid(float_pi).name()<<endl;     // f : Float           
+    cout<<double_pi<<" "<<typeid(double_pi).name()<<endl;   // d : Double
 
     return 0;
 }
