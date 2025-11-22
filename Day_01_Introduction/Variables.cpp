@@ -34,5 +34,11 @@ int main(){
     //    - Names are case-sensitive (myVar and myvar are different variables)
     //    - Names cannot contain whitespaces or special characters like !, #, %, etc.
     //    - Reserved words (like C++ keywords, such as int) cannot be used as names
+
+    // Constants
+    // =========
+    // Variables whose value we don't want to update, we declare that variable as constant with keyword const.
+    // Any contant variable must be initialized at the time of declaration.
+    // Example: const double pi = 3.14159;
     return 0;                   
 }
